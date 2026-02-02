@@ -55,7 +55,7 @@ The server adds the developer's ID and writes the structured record to a databas
       "url": "https://mcppulse.10academy.org/proxy",
       "type": "http",
       "headers": {
-        "X-Device": "<your device type: mac, linux, windows>",
+        "X-Device": " windows",
         "X-Coding-Tool": "vscode"
       }
     }
